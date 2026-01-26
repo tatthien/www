@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 const projects = [
   {
+    name: 'Obsidian Study for Vietnamese',
+    description: 'This Obsidian plugin aims to make Bible study easier and more productive for Vietnamese Christians',
+    url: 'https://github.com/tatthien/obsidian-bible-kit',
+  },
+  {
     name: 'Church election app',
     description: 'A micro app for my local church\'s leadership elections',
     url: 'https://vote.thien.dev',
