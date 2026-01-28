@@ -1,4 +1,3 @@
-import Page from '@/app/page'
 import { Posts } from '@/components/posts'
 import Image from 'next/image'
 import Link from 'next/link'
