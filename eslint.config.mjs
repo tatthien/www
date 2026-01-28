@@ -22,7 +22,7 @@ export default [
     rules: {
       // Stylistic rules matching previous Biome config
       '@stylistic/indent': ['error', 2],
-      '@stylistic/max-len': ['error', { code: 160 }],
+      // '@stylistic/max-len': ['error', { code: 160 }],
       '@stylistic/quotes': ['error', 'single'],
       '@stylistic/semi': ['error', 'never'],
       '@stylistic/comma-dangle': ['error', 'always-multiline'],
