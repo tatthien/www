@@ -5,7 +5,7 @@ import { SVGProps } from 'react'
 
 const projects = [
   {
-    name: 'Obsidian Study for Vietnamese',
+    name: 'Bible Study for Vietnamese',
     description: 'This Obsidian plugin aims to make Bible study easier and more productive for Vietnamese Christians',
     url: 'https://github.com/tatthien/obsidian-bible-kit',
   },
